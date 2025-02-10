@@ -1,5 +1,5 @@
 # Hi there, I'm Conner 👋
-## Interests
+## Interests:
 - **Automation** ⚙️
 - **CNCF** 🏗️
 - **Cloud Computing** ☁️
@@ -9,7 +9,7 @@
 - **Linux** 🐧
 - **Networking** 🌐
 - **Otel** 🔍
-## What I like to work with
+## Tech I like:
 - **Ansible** 📜
 - **AWS** ☁️
 - **Docker** 🐳
