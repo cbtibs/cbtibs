@@ -1,0 +1,32 @@
+# Hi there, I'm Conner 👋
+
+---
+
+## Interests
+
+- **Automation** ⚙️
+- **CNCF** 🏗️
+- **Cloud Computing** ☁️
+- **DevOps** 🤖
+- **Games** 🎮
+- **Infrastructure as Code** 🛠️
+- **Linux** 🐧
+- **Networking** 🌐
+- **Otel** 🔍
+
+---
+
+## Tech I like
+
+- **Ansible** 📜
+- **AWS** ☁️
+- **Docker** 🐳
+- **Grafana** 📊
+- **Go** 🐹
+- **Helm** ⛵
+- **Kubernetes** 🚢
+- **Prometheus** 🔥
+- **Python** 🐍
+- **Terraform** 🌍
+
+# cbtibs
