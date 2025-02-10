@@ -12,7 +12,7 @@
 ## Tech I like:
 - **Ansible** 📜
 - **AWS** ☁️
-- **Crossplane 🍭
+- **Crossplane** 🍭
 - **Docker** 🐳
 - **Grafana** 📊
 - **Go** 🐹
