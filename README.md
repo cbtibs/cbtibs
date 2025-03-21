@@ -27,4 +27,4 @@
 ---
 
 **Nightly Battle Update:**
-<img align="center" src="https://raw.githubusercontent.com/cbtibs/readme-battle/main/battle_map.png">
+<img align="right" src="https://raw.githubusercontent.com/cbtibs/readme-battle/main/battle_map.png">
