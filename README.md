@@ -7,6 +7,7 @@
 - **DevOps** 🤖
 - **Games** 🎮
 - **Infrastructure as Code** 🛠️
+- **Kubernetes** 🚢
 - **Linux** 🐧
 - **Networking** 🌐
 - **Otel** 🔍
