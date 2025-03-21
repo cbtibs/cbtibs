@@ -26,5 +26,5 @@
 - **Terraform** 🌍
 ---
 
-**Nightly Battle Update:**
-<img align="right" src="https://raw.githubusercontent.com/cbtibs/readme-battle/main/battle_map.png">
+                                                                                                        **Nightly Battle Update:**
+<img align="center" src="https://raw.githubusercontent.com/cbtibs/readme-battle/main/battle_map.png">
