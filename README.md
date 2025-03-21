@@ -12,6 +12,6 @@
 - **Networking** 🌐
 - **Otel** 🔍
 ---
-**Daily Battle Update:**
+### Daily Battle Update:
 
 ![Battle Map](https://raw.githubusercontent.com/cbtibs/readme-battle/main/battle_map.png)
