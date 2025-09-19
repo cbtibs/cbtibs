@@ -4,3 +4,4 @@
  - k8s
  - AWS
  - Linux
+ - Otel
